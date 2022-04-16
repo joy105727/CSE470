@@ -3,5 +3,5 @@
 ## 18301180
 ## CSE470
 ## Section 1
-## Summer 22
+## Spring 22
  
