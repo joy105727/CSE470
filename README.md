@@ -1,7 +1,7 @@
-# Car Rental System
-## Ilhum Zia Chowdhury
-## 19101214
+# Online Car Rent System
+## Joy Biswas
+## 18301180
 ## CSE470
-## Section 3
-## Fall 2021
+## Section 1
+## Summer 22
  
