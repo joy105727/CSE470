@@ -612,6 +612,7 @@
 		<a href="/">Home</a>
 		<a href="{{ route('login') }}">Login</a>
 		<a href="{{ route('register') }}">Register</a>
+        <img class="rounded" src="{{ asset('https://www.slashgear.com/img/gallery/the-15-best-bmws-of-all-time/intro-1643053422.jpg') }}" width="1500px" height="350px">
 		<div class="animation start-home"></div>
 	</nav>
 	<div id="layout-wrapper">
